@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="120f76ea-d281-4cd0-bfa5-5415a78af321" name="Default" comment="" />
+    <ignored path="closures_delegation.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="closures_delegation" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="_15_grails_constraints.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_15_grails_constraints.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="n#!!block;n#Validations#0" expanded="false" />
+                <element signature="n#!!block;n#ConstraintValidatable#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../goals/caching" value="2996026769260" />
+        <entry key="$PROJECT_DIR$/../../im/gradle-bootcamp" value="2979019523018" />
+        <entry key="$PROJECT_DIR$/../../im/gradle-bootcamp2" value="2979453027620" />
+        <entry key="$PROJECT_DIR$/../../im/gradle-bootcamp3" value="2979454777956" />
+        <entry key="$PROJECT_DIR$/../../im/hibernate-basics" value="2969948021470" />
+        <entry key="$PROJECT_DIR$/../../practice/ratpack-start" value="2939712764096" />
+        <entry key="$PROJECT_DIR$/../../viralGains/ml2" value="10162033035382" />
+        <entry key="$PROJECT_DIR$/../../viralGains/ml2/model-generation" value="1461040396000" />
+        <entry key="$PROJECT_DIR$/../../viralGains/ml2/tmp" value="1469769616672" />
+        <entry key="$PROJECT_DIR$/../../viralGains/mlservice" value="2944210491292" />
+        <entry key="$PROJECT_DIR$/../../viralGains/rtb" value="1469702189805" />
+        <entry key="$PROJECT_DIR$/../../viralGains/vgcommon" value="2944060609467" />
+        <entry key="$PROJECT_DIR$/../../viralgains/scratchpad/ml/mleap-poc" value="1486533779528" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/EnclosedInInnerClass.java" />
+        <option value="$PROJECT_DIR$/src/_02_this.groovy" />
+        <option value="$PROJECT_DIR$/src/_03_this.groovy" />
+        <option value="$PROJECT_DIR$/src/_05_owner.groovy" />
+        <option value="$PROJECT_DIR$/src/_07_delegate.groovy" />
+        <option value="$PROJECT_DIR$/src/_08_owner.groovy" />
+        <option value="$PROJECT_DIR$/src/_09_owner.groovy" />
+        <option value="$PROJECT_DIR$/src/_11_delegation_strategy.groovy" />
+        <option value="$PROJECT_DIR$/src/_14_grails_example.groovy" />
+        <option value="$PROJECT_DIR$/src/_01_this.groovy" />
+        <option value="$PROJECT_DIR$/src/_04_owner.groovy" />
+        <option value="$PROJECT_DIR$/src/_06_owner.groovy" />
+        <option value="$PROJECT_DIR$/src/_09_delegate.groovy" />
+        <option value="$PROJECT_DIR$/src/_10_changing_delegate.groovy" />
+        <option value="$PROJECT_DIR$/src/_12_effect_of_default_strategy.groovy" />
+        <option value="$PROJECT_DIR$/src/_13_changing_delegation_strategy.groovy" />
+        <option value="$PROJECT_DIR$/src/_15_grails_constraints.groovy" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="55" />
+    <option name="y" value="21" />
+    <option name="width" value="1311" />
+    <option name="height" value="747" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="sv&#9;ACTION&#9;SplitVertically" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Groovy._15_grails_constraints">
+    <configuration default="false" name="_10_changing_delegate" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="closures_delegation" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/_10_changing_delegate.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="_11_delegation_strategy" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="closures_delegation" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/_11_delegation_strategy.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="_12_effect_of_default_strategy" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="closures_delegation" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/_12_effect_of_default_strategy.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="_13_changing_delegation_strategy" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="closures_delegation" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/_13_changing_delegation_strategy.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="_15_grails_constraints" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="closures_delegation" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/_15_grails_constraints.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="closures_delegation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="closures_delegation" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="closures_delegation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="closures_delegation" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="closures_delegation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="closures_delegation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="closures_delegation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="closures_delegation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="closures_delegation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Groovy._10_changing_delegate" />
+      <item index="1" class="java.lang.String" itemvalue="Groovy._11_delegation_strategy" />
+      <item index="2" class="java.lang.String" itemvalue="Groovy._12_effect_of_default_strategy" />
+      <item index="3" class="java.lang.String" itemvalue="Groovy._13_changing_delegation_strategy" />
+      <item index="4" class="java.lang.String" itemvalue="Groovy._15_grails_constraints" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Groovy._15_grails_constraints" />
+        <item index="1" class="java.lang.String" itemvalue="Groovy._13_changing_delegation_strategy" />
+        <item index="2" class="java.lang.String" itemvalue="Groovy._12_effect_of_default_strategy" />
+        <item index="3" class="java.lang.String" itemvalue="Groovy._11_delegation_strategy" />
+        <item index="4" class="java.lang.String" itemvalue="Groovy._10_changing_delegate" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../website/scala_coursera/week_01/example" value="1459500174000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="120f76ea-d281-4cd0-bfa5-5415a78af321" name="Default" comment="" />
+      <created>1499148897698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499148897698</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="55" y="21" width="1311" height="747" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296146" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35640648" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26477543" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39911634" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/_15_grails_constraints.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!block;n#Validations#0" expanded="false" />
+            <element signature="n#!!block;n#ConstraintValidatable#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EnclosedInInnerClass.java" />
+    <entry file="jar://$USER_HOME$/.ideaLibSources/groovy-2.4.3-sources.jar!/groovy/lang/Closure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="269" column="18" selection-start-line="269" selection-start-column="18" selection-end-line="269" selection-end-column="18" />
+          <folding>
+            <marker date="1499151083761" expanded="false" signature="0:619" ph="/.../" />
+            <marker date="1499151083761" expanded="false" signature="649:1154" ph="..." />
+            <marker date="1499151083761" expanded="true" signature="1156:2051" ph="/**...*/" />
+            <marker date="1499151083761" expanded="true" signature="2184:3111" ph="/**...*/" />
+            <marker date="1499151083761" expanded="true" signature="3162:4117" ph="/**...*/" />
+            <marker date="1499151083761" expanded="true" signature="4171:5080" ph="/**...*/" />
+            <marker date="1499151083761" expanded="true" signature="5130:6064" ph="/**...*/" />
+            <marker date="1499151083761" expanded="true" signature="6117:6634" ph="/**...*/" />
+            <marker date="1499151083761" expanded="true" signature="6853:6939" ph="{...}" />
+            <marker date="1499151083761" expanded="false" signature="6896:6911" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="6923:6933" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="7348:7703" ph="{...}" />
+            <marker date="1499151083761" expanded="true" signature="7709:7892" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="7925:7936" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="7954:7960" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="7966:8403" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="8459:8470" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="8509:8515" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="8521:8885" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="8921:8932" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="8955:8961" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="8996:9006" ph=" { " />
+            <marker date="1499151083761" expanded="true" signature="9024:9030" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="9085:10471" ph="{...}" />
+            <marker date="1499151083761" expanded="true" signature="10534:10684" ph="{...}" />
+            <marker date="1499151083761" expanded="true" signature="10744:10824" ph="{...}" />
+            <marker date="1499151083761" expanded="true" signature="10917:12011" ph="{...}" />
+            <marker date="1499151083761" expanded="true" signature="12075:13170" ph="{...}" />
+            <marker date="1499151083761" expanded="true" signature="13248:13409" ph="{...}" />
+            <marker date="1499151083761" expanded="true" signature="13484:13567" ph="{...}" />
+            <marker date="1499151083761" expanded="true" signature="13675:14325" ph="{...}" />
+            <marker date="1499151083761" expanded="true" signature="14370:14499" ph="{...}" />
+            <marker date="1499151083761" expanded="true" signature="14505:14703" ph="/**...*/" />
+            <marker date="1499151083761" expanded="true" signature="14724:14812" ph="{...}" />
+            <marker date="1499151083761" expanded="false" signature="14818:14848" ph="/unchecked/" />
+            <marker date="1499151083761" expanded="true" signature="14883:15221" ph="{...}" />
+            <marker date="1499151083761" expanded="true" signature="15227:15470" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="15512:15523" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="15560:15566" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="15639:15855" ph="{...}" />
+            <marker date="1499151083761" expanded="true" signature="15861:16016" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="16045:16056" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="16074:16080" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="16086:16244" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="16276:16287" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="16308:16314" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="16320:16459" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="16504:16515" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="16540:16546" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="16552:16650" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="16689:16700" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="16722:16728" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="16734:16841" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="16887:16898" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="16931:16937" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="16943:17165" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="17197:17208" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="17237:17243" ph=" }" />
+            <marker date="1499151083761" expanded="false" signature="17332:17343" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="17350:17356" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="17362:18730" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="18785:18796" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="18842:18848" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="18854:19038" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="19089:19100" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="19137:19143" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="19149:19592" ph="/**...*/" />
+            <marker date="1499151083761" expanded="true" signature="19649:19730" ph="{...}" />
+            <marker date="1499151083761" expanded="true" signature="19736:19929" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="19981:19992" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="20030:20036" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="20042:21490" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="21553:21564" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="21613:21619" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="21625:21832" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="21891:21902" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="21943:21949" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="21955:22381" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="22442:22453" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="22496:22502" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="22508:22934" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="22987:22998" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="23041:23047" ph=" }" />
+            <marker date="1499151083761" expanded="false" signature="23450:23461" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="23478:23484" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="23490:24476" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="24508:24519" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="24593:24599" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="24605:25766" ph="/**...*/" />
+            <marker date="1499151083761" expanded="true" signature="25827:26066" ph="{...}" />
+            <marker date="1499151083761" expanded="true" signature="26072:27786" ph="/**...*/" />
+            <marker date="1499151083761" expanded="true" signature="27854:28143" ph="{...}" />
+            <marker date="1499151083761" expanded="true" signature="28149:30165" ph="/**...*/" />
+            <marker date="1499151083761" expanded="true" signature="30257:30898" ph="{...}" />
+            <marker date="1499151083761" expanded="true" signature="30904:31949" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="32004:32015" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="32065:32071" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="32077:32781" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="32816:32827" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="32865:32871" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="32965:33110" ph="{...}" />
+            <marker date="1499151083761" expanded="true" signature="33519:37923" ph="{...}" />
+            <marker date="1499151083761" expanded="false" signature="33553:33568" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="33588:33598" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="33759:33845" ph="{...}" />
+            <marker date="1499151083761" expanded="true" signature="34042:34423" ph="{...}" />
+            <marker date="1499151083761" expanded="false" signature="34583:34598" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="34640:34650" ph=" }" />
+            <marker date="1499151083761" expanded="false" signature="34843:34858" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="34903:34913" ph=" }" />
+            <marker date="1499151083761" expanded="false" signature="35023:35038" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="35075:35085" ph=" }" />
+            <marker date="1499151083761" expanded="false" signature="35227:35242" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="35288:35298" ph=" }" />
+            <marker date="1499151083761" expanded="false" signature="35342:35357" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="35398:35408" ph=" }" />
+            <marker date="1499151083761" expanded="false" signature="35454:35469" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="35487:35497" ph=" }" />
+            <marker date="1499151083761" expanded="false" signature="35621:35636" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="35670:35680" ph=" }" />
+            <marker date="1499151083761" expanded="false" signature="35833:35848" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="35883:35893" ph=" }" />
+            <marker date="1499151083761" expanded="false" signature="36030:36045" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="36085:36095" ph=" }" />
+            <marker date="1499151083761" expanded="false" signature="36239:36254" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="36305:36315" ph=" }" />
+            <marker date="1499151083761" expanded="false" signature="36438:36453" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="36465:36475" ph=" }" />
+            <marker date="1499151083761" expanded="false" signature="36580:36595" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="36614:36624" ph=" }" />
+            <marker date="1499151083761" expanded="false" signature="36733:36748" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="36801:36811" ph=" }" />
+            <marker date="1499151083761" expanded="false" signature="36923:36938" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="36969:36979" ph=" }" />
+            <marker date="1499151083761" expanded="false" signature="37118:37133" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="37166:37176" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="37292:37535" ph="{...}" />
+            <marker date="1499151083761" expanded="false" signature="37592:37607" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="37665:37675" ph=" }" />
+            <marker date="1499151083761" expanded="false" signature="37736:37751" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="37800:37810" ph=" }" />
+            <marker date="1499151083761" expanded="false" signature="37851:37866" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="37907:37917" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="37929:37978" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="38008:38019" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="38036:38042" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="38048:38105" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="38149:38160" ph=" { " />
+            <marker date="1499151083761" expanded="false" signature="38187:38193" ph=" }" />
+            <marker date="1499151083761" expanded="true" signature="38199:38460" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="38465:38495" ph="/unchecked/" />
+            <marker date="1499151083761" expanded="true" signature="38530:38710" ph="{...}" />
+            <marker date="1499151083761" expanded="true" signature="38716:39244" ph="/**...*/" />
+            <marker date="1499151083761" expanded="false" signature="39249:39279" ph="/unchecked/" />
+            <marker date="1499151083761" expanded="true" signature="39362:39553" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01_this.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <marker date="1499212058307" expanded="true" signature="0:299" ph="/*...*/" />
+            <marker date="1499212058307" expanded="true" signature="317:572" ph="{...}" />
+            <marker date="1499212058307" expanded="true" signature="334:570" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_02_this.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <marker date="1499149498028" expanded="true" signature="27:173" ph="{...}" />
+            <marker date="1499149498028" expanded="true" signature="45:80" ph="{...}" />
+            <marker date="1499149498028" expanded="true" signature="97:171" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_03_this.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="20" />
+          <folding>
+            <marker date="1499149732414" expanded="true" signature="21:173" ph="{...}" />
+            <marker date="1499149732414" expanded="true" signature="38:171" ph="{...}" />
+            <marker date="1499149732414" expanded="true" signature="69:125" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_04_owner.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="41" />
+          <folding>
+            <marker date="1499150274953" expanded="true" signature="110:386" ph="{...}" />
+            <marker date="1499150274953" expanded="true" signature="127:384" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_05_owner.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="27" />
+          <folding>
+            <marker date="1499150233177" expanded="true" signature="28:177" ph="{...}" />
+            <marker date="1499150233177" expanded="true" signature="47:83" ph="{...}" />
+            <marker date="1499150233177" expanded="true" signature="100:175" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_06_owner.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1499150375403" expanded="true" signature="22:185" ph="{...}" />
+            <marker date="1499150375403" expanded="true" signature="39:183" ph="{...}" />
+            <marker date="1499150375403" expanded="true" signature="70:127" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_07_delegate.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="44" />
+          <folding>
+            <marker date="1499150479656" expanded="true" signature="90:372" ph="{...}" />
+            <marker date="1499150479656" expanded="true" signature="107:370" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_08_delegate.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <marker date="1499150524455" expanded="true" signature="28:180" ph="{...}" />
+            <marker date="1499150524455" expanded="true" signature="47:86" ph="{...}" />
+            <marker date="1499150524455" expanded="true" signature="103:178" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_09_delegate.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding>
+            <marker date="1499150710341" expanded="true" signature="22:211" ph="{...}" />
+            <marker date="1499150710341" expanded="true" signature="39:209" ph="{...}" />
+            <marker date="1499150710341" expanded="true" signature="64:78" ph="{" />
+            <marker date="1499150710341" expanded="true" signature="139:149" ph="}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_11_delegation_strategy.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <marker date="1499151277983" expanded="true" signature="23:25" ph="{" />
+            <marker date="1499151277983" expanded="true" signature="58:60" ph="}" />
+            <marker date="1499151277983" expanded="true" signature="91:221" ph="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_10_changing_delegate.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <marker date="1499243530604" expanded="true" signature="13:32" ph="{...}" />
+            <marker date="1499243530604" expanded="true" signature="45:64" ph="{...}" />
+            <marker date="1499243530604" expanded="true" signature="276:503" ph="/*...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_12_effect_of_default_strategy.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <marker date="1499243743029" expanded="true" signature="18:105" ph="{...}" />
+            <marker date="1499243743029" expanded="true" signature="61:71" ph="{" />
+            <marker date="1499243743029" expanded="true" signature="80:86" ph="}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_13_changing_delegation_strategy.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1499243932274" expanded="true" signature="14:74" ph="{...}" />
+            <marker date="1499243932274" expanded="true" signature="88:107" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_14_grails_example.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="61" selection-start-line="0" selection-start-column="61" selection-end-line="0" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_15_grails_constraints.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!block;n#Validations#0" expanded="false" />
+            <element signature="n#!!block;n#ConstraintValidatable#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
